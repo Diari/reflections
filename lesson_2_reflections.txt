@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 If you are trying to create a new feature and test it out before publishing to master.
 Branches will allow you to do this without changing the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps me undesrtand how the different commits are interlinked and reachable, and how this relates to branches.
