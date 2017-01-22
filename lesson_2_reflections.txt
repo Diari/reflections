@@ -27,3 +27,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 When merging the two branches together, the new parent branch inherits from both of the preceeding branches.
 So it makes sense to represent them the way we do.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging allows git to save the user time on the obvious merges, without the need to check every line of code.
+The cons are it will have to make a guess where the merges are non obvious, which could have unintended consequences.
+The advantage of manual merges is it requires an understanding of the merges especially with conflicting merges and the user can then make an informed decision on what to keep from each branch.
