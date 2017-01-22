@@ -13,3 +13,8 @@ The value if the staging area is to enable you to aggregate changes to files bef
 How can you use the staging area to make sure you have one commit per logical change?
 
 By adding each logical change to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you are trying to create a new feature and test it out before publishing to master.
+Branches will allow you to do this without changing the master branch.
