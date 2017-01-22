@@ -22,3 +22,8 @@ Branches will allow you to do this without changing the master branch.
 How do the diagrams help you visualize the branch structure?
 
 It helps me undesrtand how the different commits are interlinked and reachable, and how this relates to branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When merging the two branches together, the new parent branch inherits from both of the preceeding branches.
+So it makes sense to represent them the way we do.
