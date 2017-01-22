@@ -8,4 +8,8 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is a in between the working directory and the repository, and it alows you to hold files there before commiting.
 
-The vlaue if the staging area is to enable you to aggregate changes to files before commiting.
+The value if the staging area is to enable you to aggregate changes to files before commiting.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding each logical change to the staging area.
