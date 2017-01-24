@@ -25,4 +25,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I would have to use a shared document using google docs where each person would then use a different font to make changes and leave comments.
 
 It will be easier to pick up with low overheads compared to using git syntax.
-It will be harder to manage and track the history, and would also be more difficult to fork or clone a document and later merge the changes without considerable manual work. 
+It will be harder to manage and track the history, and would also be more difficult to fork or clone a document and later merge the changes without considerable manual work.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are working on a new feature or experimental addition which you don't want it to be part of the main code base you can use branches.
+This will allow you to make changes without worrying about changing your master.
+The advantages of working in master is you can pull changes directly from remote without having to go through a complicated workflow when going through branches. 
