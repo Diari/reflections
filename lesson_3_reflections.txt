@@ -18,3 +18,11 @@ Branches allow you to create an independent line of development.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can use the last copy of the state to check against the state of the remote and see what differences have arisen since the last pull.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to use a shared document using google docs where each person would then use a different font to make changes and leave comments.
+
+It will be easier to pick up with low overheads compared to using git syntax.
+It will be harder to manage and track the history, and would also be more difficult to fork or clone a document and later merge the changes without considerable manual work. 
